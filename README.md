@@ -18,10 +18,11 @@
 	
 # After successfull Clone, go to the project directory *Ex.CustomerPortal*
 
-4. Download dependencies node_modules with command and run the project
+4. Download dependencies node_modules with command and run the project in VS code
 	1. `npm install`
 	2. `ng serve`
 	
+5. Open new terminal for same folder and use this commands
 	3. `git init`
 	4. `git remote add origin https://github.com/tdevalekar52/CustomerPortal.git`
 	5. `git add -A`
