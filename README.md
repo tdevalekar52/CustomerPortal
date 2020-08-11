@@ -16,15 +16,15 @@
 	2. git clone https://github.com/tdevalekar52/CustomerPortal.git
 	
 	
-# After successfull download, go to the project directory *Ex.CustomerPortal* and run command 
+# After successfull download, go to the project directory *Ex.CustomerPortal*
 
 4. Download dependencies node_modules with command and run the project
-	npm install
-	ng serve
+	1. npm install
+	2. ng serve
 	
-	git init
-	git remote add origin https://github.com/tdevalekar52/CustomerPortal.git
-	git add -A
+	3. git init
+	4. git remote add origin https://github.com/tdevalekar52/CustomerPortal.git
+	5. git add -A
 
 5. when start working on project daily 
 	1. git status
