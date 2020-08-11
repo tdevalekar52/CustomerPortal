@@ -15,17 +15,23 @@
 	1. git init
 	2. git clone https://github.com/tdevalekar52/CustomerPortal.git
 	
+	
+	
 4. Download dependencies node_modules with command and run the project
 	npm install
 	ng serve
 
-5. when start working on project daily 
+5. After downloading go to the project directory and run command 
+	git init
+	git remote add origin https://github.com/tdevalekar52/CustomerPortal.git
+
+6. when start working on project daily 
 	1. git status
 		(this will show your files status)
 	2. git pull origin master
 		(this will download only changed files from git)
 		
-6. After changes done do
+7. After changes done do
 	1. git push -u origin master
 		(this will push your changes on git in modified section)
 	
