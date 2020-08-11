@@ -29,7 +29,7 @@
 	1. git push -u origin master
 		(this will push your changes on git in modified section)
 	
-	2. git commit - m "<Your-Comments-for-this-commit>"
+	2. git commit -a -m "<Your-Comments-for-this-commit>"
 		(this will save your changes and merge changes )
 
 
