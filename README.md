@@ -21,13 +21,15 @@
 
 5. when start working on project daily
 	1. git status
+		(this will show your files status)
 	2. git pull origin master
+		(this will download only changed files from git)
 		
 6. After changes done do
 	1. git push -u origin master
 		(this will push your changes on git in modified section)
 	
-	2. git commit
+	2. git commit - m "<Your-Comments-for-this-commit>"
 		(this will save your changes and merge changes )
 
 
