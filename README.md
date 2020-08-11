@@ -16,7 +16,7 @@
 	2. git clone https://github.com/tdevalekar52/CustomerPortal.git
 	
 	
-# After successfull download, go to the project directory *Ex.CustomerPortal*
+# After successfull Clone, go to the project directory *Ex.CustomerPortal*
 
 4. Download dependencies node_modules with command and run the project
 	1. npm install
