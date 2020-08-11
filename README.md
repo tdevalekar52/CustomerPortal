@@ -4,10 +4,10 @@
 
 2. Configure your git with git bash terminal with your username and email
 	You can set up Git with your name
-	git config --global user.name "<Your-Full-Name>"
+	git config --global user.name "Your-Full-Name"
 
 	You can set up Git with your email
-	git config --global user.email "<your-email-address>"
+	git config --global user.email "your-email-address"
 
 # (If already Done Above steps then you can Skip to 3rd step)	
 	
@@ -16,26 +16,27 @@
 	2. git clone https://github.com/tdevalekar52/CustomerPortal.git
 	
 	
-	
+# After successfull download, go to the project directory *Ex.CustomerPortal* and run command 
+
 4. Download dependencies node_modules with command and run the project
 	npm install
 	ng serve
-
-5. After downloading go to the project directory and run command 
+	
 	git init
 	git remote add origin https://github.com/tdevalekar52/CustomerPortal.git
+	git add -A
 
-6. when start working on project daily 
+5. when start working on project daily 
 	1. git status
 		(this will show your files status)
 	2. git pull origin master
-		(this will download only changed files from git)
+		(this will download only changed files by others from git)
 		
-7. After changes done do
+6. After changes done do
 	1. git push -u origin master
 		(this will push your changes on git in modified section)
 	
-	2. git commit -a -m "<Your-Comments-for-this-commit>"
+	2. git commit -a -m "Your-Comments-for-this-commit"
 		(this will save your changes and merge changes)
 
 
