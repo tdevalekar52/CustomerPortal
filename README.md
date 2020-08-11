@@ -1,4 +1,4 @@
-# steps for downloading project using GIT
+# Steps for downloading project using GIT
 1. First you have to install git in your PC from below link and install it 
 	https://git-scm.com/downloads
 
