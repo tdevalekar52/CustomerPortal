@@ -1,4 +1,4 @@
-#steps for downloading project using GIT
+# steps for downloading project using GIT
 1. First you have to install git in your PC from below link and install it 
 	https://git-scm.com/downloads
 
@@ -9,7 +9,7 @@
 	You can set up Git with your email
 	git config --global user.email "<your-email-address>"
 
-#(If already Done Above steps then you can Skip to 3rd step)	
+# (If already Done Above steps then you can Skip to 3rd step)	
 	
 3. Clone (download project) file in empty folder using below commands
 	1. git init
