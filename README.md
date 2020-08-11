@@ -19,7 +19,7 @@
 	npm install
 	ng serve
 
-5. when start working on project daily
+5. when start working on project daily 
 	1. git status
 		(this will show your files status)
 	2. git pull origin master
