@@ -9,16 +9,16 @@ export class LayoutConfig {
 			"background-image": "./assets/media/misc/bg-1.jpg"
 		  },
 		  "logo": {
-			"dark": "./assets/media/logos/logo-light.png",
-			"light": "./assets/media/logos/logo-dark.png",
-			"brand": "./assets/media/logos/logo-light.png",
-			"green": "./assets/media/logos/logo-light.png"
+			"dark": "../../../assets/media/app_images/johnson-logo.png",
+			"light": "../../../assets/media/app_images/johnson-logo.png",
+			"brand": "../../../assets/media/app_images/johnson-logo.png",
+			"green": "../../.../../../assets/media/app_images/johnson-logo.png"
 		  }
 		},
 		"loader": {
 		  "enabled": true,
 		  "type": "spinner-logo",
-		  "logo": "./assets/media/logos/logo-mini-md.png",
+		  "logo": "../../../assets/media/app_images/johnson-logo.png",
 		  "message": "Please wait..."
 		},
 		"colors": {

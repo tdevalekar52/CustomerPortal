@@ -94,7 +94,15 @@ const routes: Routes = [
 				component: UserEditComponent
 			},
 		]
-	}
+	},
+	{
+		path: 'users',
+		component: UsersListComponent
+	},
+	{
+		path: 'add',
+		component: UserEditComponent
+	},
 ];
 
 @NgModule({
