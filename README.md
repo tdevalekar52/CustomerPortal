@@ -32,8 +32,6 @@
 # To download changed files and upload your changes follow below steps
 
 6. when start working on project daily 
-	1. `git status`
-		(this will show your files status)
 	2. `git pull origin master`
 		(this will download only changed files by others from git)
 		
