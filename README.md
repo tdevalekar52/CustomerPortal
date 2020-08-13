@@ -34,10 +34,11 @@
 		(this will download only changed files by others from git)
 		
 6. After changes done do
-	1. `git push -u origin master`
+	1. `git add -A`
+	2. `git push -u origin master`
 		(this will push your changes on git in modified section)
 	
-	2. `git commit -a -m "Your-Comments-for-this-commit"`
+	3. `git commit -a -m "Your-Comments-for-this-commit"`
 		(this will save your changes and merge changes)
 
 
