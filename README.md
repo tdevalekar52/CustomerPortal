@@ -32,10 +32,12 @@
 # To download changed files and upload your changes follow below steps
 
 6. when start working on project daily 
+
 	1. `git pull origin master`
 		(this will download only changed files by others from git)
 		
 7. After changes done do
+
 	1. `git add -A`
 	2. `git push -u origin master`
 		(this will push your changes on git in modified section)
