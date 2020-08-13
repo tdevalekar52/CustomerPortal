@@ -23,9 +23,9 @@
 	2. `ng serve`
 	
 5. Open new terminal for same folder and use this commands
-	3. `git init`
-	4. `git remote add origin https://github.com/tdevalekar52/CustomerPortal.git`
-	5. `git add -A`
+	1. `git init`
+	2. `git remote add origin https://github.com/tdevalekar52/CustomerPortal.git`
+	3. `git add -A`
 
 # done.. you can do your work now...
 
