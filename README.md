@@ -27,7 +27,7 @@
 	4. `git remote add origin https://github.com/tdevalekar52/CustomerPortal.git`
 	5. `git add -A`
 
-# done.. you can do your work nonw...
+# done.. you can do your work now...
 
 # To download changed files and upload your changes follow below steps
 
