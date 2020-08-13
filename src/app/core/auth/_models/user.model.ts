@@ -17,6 +17,9 @@ export class User extends BaseModel {
 	phone: string;
     address: Address;
     socialNetworks: SocialNetworks;
+	usercode: any;
+	firstname: any;
+	lastname: any;
 
     clear(): void {
         this.id = undefined;

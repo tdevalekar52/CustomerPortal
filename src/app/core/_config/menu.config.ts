@@ -21,16 +21,16 @@ export class MenuConfig {
 					title: 'Add User',
 					alignment: 'left',
 					icon: 'flaticon-avatar',
-					page: '/user-management/add'
+					page: '/user-management/users/add'
 				
 				},
-				{
-					title: 'Logout',
-					alignment: 'left',
-					icon: 'flaticon-logout',
-					page: '/login'
+				// {
+				// 	title: 'Logout',
+				// 	alignment: 'left',
+				// 	icon: 'flaticon-logout',
+				// 	page: '/login'
 				
-				},
+				// },
 				// {
 				// 	title: 'Dashboards',
 				// 	root: true,
