@@ -27,13 +27,17 @@
 	4. `git remote add origin https://github.com/tdevalekar52/CustomerPortal.git`
 	5. `git add -A`
 
-5. when start working on project daily 
+# done.. you can do your work nonw...
+
+# To download changed files and upload your changes follow below steps
+
+6. when start working on project daily 
 	1. `git status`
 		(this will show your files status)
 	2. `git pull origin master`
 		(this will download only changed files by others from git)
 		
-6. After changes done do
+7. After changes done do
 	1. `git add -A`
 	2. `git push -u origin master`
 		(this will push your changes on git in modified section)
