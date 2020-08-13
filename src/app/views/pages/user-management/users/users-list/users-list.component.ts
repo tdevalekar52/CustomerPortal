@@ -27,6 +27,7 @@ import {
 	selectAllRoles
 } from '../../../../../core/auth';
 import { SubheaderService } from '../../../../../core/_base/layout';
+import { summaryFileName } from '@angular/compiler/src/aot/util';
 
 // Table with EDIT item in MODAL
 // ARTICLE for table with sort/filter/paginator
@@ -42,6 +43,36 @@ import { SubheaderService } from '../../../../../core/_base/layout';
 })
 export class UsersListComponent implements OnInit, OnDestroy {
 	// Table fields
+
+	customerusers:any []=[
+		{
+			
+			name: 'Suman Dontha',
+			usercode: 'P001',
+			dealercode: 'GH4252',
+			accesskey: 'AD852FD',
+			company: 'XYZ Comapny',
+			companysite: 'xyz.com',
+			contactphone: '5416461754',
+			emailaddress: 'Suman@gmail.com',
+			password: '414adsc',
+			activestatus: 'Active'
+		},
+		{
+			
+			name: 'Ketan Chavan',
+			usercode: 'P002',
+			dealercode: 'GH4262',
+			accesskey: 'AD852FD',
+			company: 'XYZ Comapny',
+			companysite: 'xyz.com',
+			contactphone: '5416461754',
+			emailaddress: 'ketan@gmail.com',
+			password: '414adsc',
+			activestatus: 'Active'
+		}
+	]
+
 	dataSource: UsersDataSource;
 	displayedColumns = ['select', 'id', 'username', 'email', 'fullname', '_roles', 'actions'];
 	@ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;

@@ -62,7 +62,7 @@ const routes: Routes = [
 		children: [
 			{
 				path: '',
-				redirectTo: 'roles',
+				redirectTo: 'users',
 				pathMatch: 'full'
 			},
 			{
@@ -94,14 +94,6 @@ const routes: Routes = [
 				component: UserEditComponent
 			},
 		]
-	},
-	{
-		path: 'users',
-		component: UsersListComponent
-	},
-	{
-		path: 'add',
-		component: UserEditComponent
 	},
 ];
 

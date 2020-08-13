@@ -5,6 +5,7 @@ import {RouterModule, Routes} from '@angular/router';
 import {BaseComponent} from './views/theme/base/base.component';
 import {UserManagementComponent} from './views/pages/user-management/user-management.component';
 import {ErrorPageComponent} from './views/theme/content/error-page/error-page.component';
+import {LoginComponent} from './views/pages/auth/login/login.component';
 // Auth
 import {AuthGuard} from './core/auth';
 
