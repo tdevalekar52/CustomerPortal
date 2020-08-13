@@ -32,7 +32,7 @@
 # To download changed files and upload your changes follow below steps
 
 6. when start working on project daily 
-	2. `git pull origin master`
+	1. `git pull origin master`
 		(this will download only changed files by others from git)
 		
 7. After changes done do
